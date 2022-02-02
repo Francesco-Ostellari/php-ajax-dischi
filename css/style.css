@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main  {
+  background-color: #1E2D3B;
+  width: 100%;
+  height: calc(100vh - 70px);
+}
+
+.container_header {
+  padding: 10px 30px;
+  width: 100%;
+  height: 70px;
+  background-color:#2E3A46;
+}
+
+img {
+  height: 100%;
+}
+
+.card_spotify {
+  width: 200px;
+  height: 350px;
+  padding: 20px;
+  background-color:#2E3A46;
+}
+
+.container-img img {
+  width: 100%;
+}
+
+.title {
+  color: white;
+  margin-top: 15px;
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.author {
+  text-align: center;
+  color: #788080;
+  font-weight: bold;
+}
+
+.date {
+  text-align: center;
+  color: #788080;
+  font-weight: bold;
+}
